@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/dewan_backup/Java/lib/comp401-grader-11.9-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/json-20160810.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MessageBusClientLibraries"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
